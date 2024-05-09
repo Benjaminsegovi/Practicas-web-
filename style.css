@@ -1,0 +1,274 @@
+header {
+    background-color: lightskyblue;
+    width: auto;
+    height: 300px;
+    border: 3px solid black;
+}
+
+#logo {
+    width: 80%;
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logo img {
+    width: 80px;
+    height: 80px;
+}
+
+#titulo {
+    display: flex;
+    width: 50%;
+    font-family: cursive;
+}
+
+#titulo h1 {
+    margin: 20px;
+    align-content: center;
+}
+
+#barra {
+    width: 300px;
+    height: 80px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+#barra p {
+    text-align: center;
+    align-content: center;
+    width: 100%;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+#btn1 {
+    width: 20%;
+    height: 50px;
+}
+
+#bt1 {
+    width: 80%;
+    height: 50px;
+    margin-left: 15px;
+    border-radius: 100px;
+    font-size: 20px;
+    color: blueviolet;
+    background-color: aqua;
+    font-family: cursive;
+}
+
+#animeles {
+    width: 80%;
+    height: 130px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+select {
+    width: 30%;
+    height: 30px;
+}
+
+#selec {
+    width: 40%;
+    height: 130px;
+}
+
+#ubicacion {
+    height: 130px;
+    width: 40%;
+}
+
+input {
+    width: 30%;
+    height: 30px;
+}
+
+.ubi {
+    margin-left: 15px;
+}
+
+.ub {
+    display: flex;
+    align-items: center;
+}
+
+.foto {
+    width: 50px;
+}
+
+.para {
+    width: 50%;
+    height: 30px;
+    font-size: 17px;
+    font-family: cursive;
+}
+
+#btn2 {
+    margin-top: 15px;
+    width: 30%;
+    height: 130px;
+    text-align: center;
+    align-content: center;
+}
+
+#bt2 {
+    width: 100%;
+    font-size: 15px;
+    font-family: cursive;
+    box-shadow: 2px 3px 5px 3px;
+    background-color: blueviolet;
+}
+
+#caja1 {
+    font-size: 15px;
+    font-family: cursive;
+    display: flex;
+    align-items: center;
+    width: 80%;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    border: 1px solid black;
+    background-color: rgba(220, 220, 220, 0.634);
+}
+
+#Pepper1 {
+    margin: 15px;
+    justify-content: center;
+}
+
+#Pepper2 {
+    margin: 15px;
+    width: 30%;
+}
+
+#Boton1 {
+    font-family: cursive;
+    background-color: aqua;
+    box-shadow: 2px 2px 5px 2px;
+    width: 200px;
+    height: 30px;
+}
+
+#bon {
+    display: flex;
+    justify-content: end;
+}
+
+#contador {
+    margin-right: 15px;
+}
+
+.ble {
+    display: flex;
+    justify-content: end;
+    margin-right: 15px;
+}
+
+#caja1 img {
+    width: 150px;
+    height: 130px;
+    margin: 15px;
+}
+
+#caja2 {
+    font-size: 15px;
+    font-family: cursive;
+    display: flex;
+    align-items: center;
+    width: 80%;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: rgba(220, 220, 220, 0.634);
+}
+
+#Bruce1 {
+    margin: 15px;
+    justify-content: center;
+}
+
+#Bruce2 {
+    margin: 15px;
+    width: 40%;
+}
+
+#Boton2 {
+    font-family: cursive;
+    background-color: aqua;
+    box-shadow: 2px 2px 5px 2px;
+    width: 200px;
+    height: 30px;
+}
+
+#bon2 {
+    display: flex;
+    justify-content: end;
+}
+
+#contador2 {
+    margin-right: 15px;
+}
+
+#caja2 img {
+    width: 150px;
+    height: 130px;
+    margin: 15px;
+}
+
+#caja3 {
+    font-size: 15px;
+    font-family: cursive;
+    display: flex;
+    align-items: center;
+    width: 80%;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: rgba(220, 220, 220, 0.634);
+}
+
+#oscar1 {
+    margin: 15px;
+    justify-content: center;
+}
+
+#oscar2 {
+    margin: 15px;
+    width: 40%;
+}
+
+#Boton3 {
+    font-family: cursive;
+    background-color: aqua;
+    box-shadow: 2px 2px 5px 2px;
+    width: 200px;
+    height: 30px;
+}
+
+#bon3 {
+    display: flex;
+    justify-content: end;
+}
+
+#contador3 {
+    margin-right: 15px;
+}
+
+#caja3 img {
+    width: 150px;
+    height: 130px;
+    margin: 15px;
+}
